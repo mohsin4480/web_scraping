@@ -1,7 +1,7 @@
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
-# from csv import writer
+#from csv import writer
 
 url="https://en.wikipedia.org/wiki/List_of_cities_in_Pakistan_by_population"
 city_page=requests.get(url).content
