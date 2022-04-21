@@ -1,0 +1,101 @@
+,City_name,Population_2017,Population_1998,Change_in_population,Province
+0,Karachi,"14,916,456","9,339,023",+59.72%,Sindh
+1,Lahore,"11,126,285","5,209,088",+113.59%,Punjab
+2,Faisalabad,"3,204,726","2,008,861",+59.53%,Punjab
+3,Rawalpindi,"2,098,231","1,409,768",+48.84%,Punjab
+4,Gujranwala,"2,027,001","1,132,509",+78.98%,Punjab
+5,Peshawar,"1,970,042","982,816",+100.45%,Khyber Pakhtunkhwa
+6,Multan,"1,871,843","1,197,384",+56.33%,Punjab
+7,Hyderabad,"1,734,309","1,166,894",+48.63%,Sindh
+8,Islamabad,"1,009,832","529,180",+90.83%,Islamabad
+9,Quetta,"1,001,205","565,137",+77.16%,Balochistan
+10,Bahawalpur,"762,111","408,395",+86.61%,Punjab
+11,Sargodha,"659,862","458,440",+43.94%,Punjab
+12,Sialkot,"655,852","421,502",+55.60%,Punjab
+13,Sukkur,"499,900","335,551",+48.98%,Sindh
+14,Larkana,"490,508","270,283",+81.48%,Sindh
+15,Rahim Yar Khan,"477,100","233,537",+104.29%,Punjab
+16,Sheikhupura,"473,129","280,263",+68.82%,Punjab
+17,Jhang,"414,131","293,366",+41.17%,Punjab
+18,Dera Ghazi Khan,"399,064","190,542",+109.44%,Punjab
+19,Gujrat,"390,533","251,792",+55.10%,Punjab
+20,Sahiwal,"389,605","208,778",+86.61%,Punjab
+21,Wah Cantonment,"380,103","198,891",+91.11%,Punjab
+22,Mardan,"358,604","245,926",+45.82%,Khyber Pakhtunkhwa
+23,Kasur,"358,409","245,321",+46.10%,Punjab
+24,Okara,"357,935","201,815",+77.36%,Punjab
+25,Mingora,"331,091","173,868",+90.43%,Khyber Pakhtunkhwa
+26,Nawabshah,"279,688","189,244",+47.79%,Sindh
+27,Chiniot,"278,747","172,522",+61.57%,Punjab
+28,Kotri,"259,358","62,085",+317.75%,Sindh
+29,Kāmoke,"249,767","152,288",+64.01%,Punjab
+30,Hafizabad,"245,784","133,678",+83.86%,Punjab
+31,Sadiqabad,"239,677","144,391",+65.99%,Punjab
+32,Mirpur Khas,"233,916","189,671",+23.33%,Sindh
+33,Burewala,"231,797","152,097",+52.40%,Punjab
+34,Kohat,"228,779","126,627",+80.67%,Khyber Pakhtunkhwa
+35,Khanewal,"227,059","133,986",+69.46%,Punjab
+36,Dera Ismail Khan,"217,457","92,114",+136.07%,Khyber Pakhtunkhwa
+37,Turbat,"213,557","68,603",+211.29%,Balochistan
+38,Muzaffargarh,"209,604","123,404",+69.85%,Punjab
+39,Abbotabad,"208,491","106,101",+96.50%,Khyber Pakhtunkhwa
+40,Mandi Bahauddin,"198,609","99,496",+99.62%,Punjab
+41,Shikarpur,"195,437","134,883",+44.89%,Sindh
+42,Jacobabad,"191,076","138,780",+37.68%,Sindh
+43,Jhelum,"190,425","147,392",+29.20%,Punjab
+44,Khanpur,"184,793","120,382",+53.51%,Punjab
+45,Khairpur,"183,181","105,637",+73.41%,Sindh
+46,Khuzdar,"182,927","91,057",+100.89%,Balochistan
+47,Pakpattan,"176,693","109,033",+62.05%,Punjab
+48,Hub,"175,376","62,763",+179.43%,Balochistan
+49,Daska,"175,170","102,883",+70.26%,Punjab
+50,Gojra,"174,860","117,892",+48.32%,Punjab
+51,Dadu,"171,191","102,550",+66.93%,Sindh
+52,Muridke,"166,652","111,951",+48.86%,Punjab
+53,Bahawalnagar,"161,033","111,313",+44.67%,Punjab
+54,Samundri,"156,991","54,908",+185.92%,Punjab
+55,Tando Allahyar,"156,562","85,812",+82.45%,Sindh
+56,Tando Adam,"152,617","104,907",+45.48%,Sindh
+57,Jaranwala,"150,380","106,985",+40.56%,Punjab
+58,Chishtian,"149,939","102,287",+46.59%,Punjab
+59,Muzaffarabad,"149,913","85,462",+75.41%,Azad Kashmir
+60,Attock,"146,396","69,729",+109.95%,Punjab
+61,Vehari,"145,464","94,343",+54.19%,Punjab
+62,Kot Abdul Malik,"143,434","63,525",+125.79%,Punjab
+63,Ferozwala,"141,405","55,433",+155.09%,Punjab
+64,Chakwal,"138,146","80,508",+71.59%,Punjab
+65,Gujranwala Cantonment,"137,302","93,093",+47.49%,Punjab
+66,Kamalia,"135,641","97,324",+39.37%,Punjab
+67,Umerkot,"134,052","35,559",+276.98%,Sindh
+68,Ahmedpur East,"133,369","96,415",+38.33%,Punjab
+69,Kot Addu,"129,703","80,720",+60.68%,Punjab
+70,Wazirabad,"128,060","90,197",+41.98%,Punjab
+71,Mansehra,"127,623","49,534",+157.65%,Khyber Pakhtunkhwa
+72,Layyah,"126,361","72,319",+74.73%,Punjab
+73,Mirpur,"124,352","115,641",+7.53%,Azad Kashmir
+74,Swabi,"123,412","80,157",+53.96%,Khyber Pakhtunkhwa
+75,Chaman,"123,191","56,792",+116.92%,Balochistan
+76,Taxila,"121,952","71,882",+69.66%,Punjab
+77,Nowshera,"120,131","89,813",+33.76%,Khyber Pakhtunkhwa
+78,Khushab,"119,384","87,859",+35.88%,Punjab
+79,Shahdadkot,"118,915","60,436",+96.76%,Sindh
+80,Mianwali,"118,883","80,171",+48.29%,Punjab
+81,Kabal,"118,103","75,891",+55.62%,Khyber Pakhtunkhwa
+82,Lodhran,"117,851","65,501",+79.92%,Punjab
+83,Hasilpur,"115,536","71,295",+62.05%,Punjab
+84,Charsadda,"114,565","87,218",+31.35%,Khyber Pakhtunkhwa
+85,Bhakkar,"113,018","68,896",+64.04%,Punjab
+86,Badin,"112,420","62,843",+78.89%,Sindh
+87,Arif Wala,"111,403","74,174",+50.19%,Punjab
+88,Ghotki,"111,321","52,823",+110.74%,Sindh
+89,Sambrial,"109,479","49,574",+120.84%,Punjab
+90,Jatoi,"109,424","38,986",+180.68%,Punjab
+91,Haroonabad,"107,858","62,878",+71.54%,Punjab
+92,Daharki,"103,557","34,615",+199.17%,Sindh
+93,Narowal,"103,067","57,052",+80.65%,Punjab
+94,Tando Muhammad Khan,"101,863","65,396",+55.76%,Sindh
+95,Kamber Ali Khan,"101,474","58,369",+73.85%,Sindh
+96,Mirpur Mathelo,"100,760","42,421",+137.52%,Sindh
+97,Kandhkot,"100,698","67,566",+49.04%,Sindh
+98,Bhalwal,"100,135","61,523",+62.76%,Punjab
+99,Gwadar,"90,762","45,768",+98.31%,Balochistan
